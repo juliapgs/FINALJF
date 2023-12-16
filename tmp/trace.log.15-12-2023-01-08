@@ -1,0 +1,5 @@
+15-12-2023 01:08:35 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Iniciando a autenticacao do biel
+15-12-2023 01:08:35 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Hash da senha gerado.
+15-12-2023 01:08:35 DEBUG [br.un.to.re.AuthResource] (executor-thread-1) yEaSZv1mx2Hf11tomtEAY3HUG2hrQS2ACE17U1PeCoA7PFIhHARbDredPke5UTKwvMVA+jod2rMVKSoDzm8p3Q==
+15-12-2023 01:08:35 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Login e senha corretos.
+15-12-2023 01:08:35 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Finalizando o processo de login.

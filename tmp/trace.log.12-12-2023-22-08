@@ -1,0 +1,8 @@
+12-12-2023 22:08:30 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Iniciando a autenticacao do figu
+12-12-2023 22:08:30 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Hash da senha gerado.
+12-12-2023 22:08:30 DEBUG [br.un.to.re.AuthResource] (executor-thread-1) 3C4hkklzjrHaM0GTV9UpXe78RGVxDjp2ZfsbQUERMRzYa81BYZf934zbqsWNgFhOxVVKbX15K1qjynLoVst1NA==
+12-12-2023 22:08:40 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Iniciando a autenticacao do figu
+12-12-2023 22:08:40 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Hash da senha gerado.
+12-12-2023 22:08:40 DEBUG [br.un.to.re.AuthResource] (executor-thread-1) 3ZCPH2zOz55PZT+YGNp92BgJW4hQ9PIegXo6ZK3fJKVFJ8AVqjaTfyQBTlGp7GvPqgGsmwr4o+dkalZ4vQ+rHA==
+12-12-2023 22:08:40 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Login e senha corretos.
+12-12-2023 22:08:40 INFO  [br.un.to.re.AuthResource] (executor-thread-1) Finalizando o processo de login.

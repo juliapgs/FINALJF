@@ -1,0 +1,54 @@
+15-12-2023 21:08:00 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:04 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:06 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:11 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:16 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:20 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:23 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:29 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:31 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:34 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:39 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:44 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:47 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:49 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:52 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:54 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:56 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java
+15-12-2023 21:08:58 ERROR [io.qu.de.de.JavaCompilationProvider] (vert.x-worker-thread-1) cannot find symbol
+  symbol:   method update(java.lang.Long)
+  location: variable service of type br.unitins.topicos1.service.UsuarioService, line 45 in C:\Users\User\Downloads\ProjetoFinalJF\src\main\java\br\unitins\topicos1\resource\UsuarioResource.java

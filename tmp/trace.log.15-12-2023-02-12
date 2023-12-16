@@ -1,0 +1,5 @@
+15-12-2023 02:12:37 INFO  [br.un.to.re.AuthResource] (executor-thread-3) Iniciando a autenticacao do lipe
+15-12-2023 02:12:37 INFO  [br.un.to.re.AuthResource] (executor-thread-3) Hash da senha gerado.
+15-12-2023 02:12:37 DEBUG [br.un.to.re.AuthResource] (executor-thread-3) yEaSZv1mx2Hf11tomtEAY3HUG2hrQS2ACE17U1PeCoA7PFIhHARbDredPke5UTKwvMVA+jod2rMVKSoDzm8p3Q==
+15-12-2023 02:12:37 INFO  [br.un.to.re.AuthResource] (executor-thread-3) Login e senha corretos.
+15-12-2023 02:12:37 INFO  [br.un.to.re.AuthResource] (executor-thread-3) Finalizando o processo de login.

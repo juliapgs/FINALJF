@@ -1,0 +1,8 @@
+13-12-2023 23:23:16 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Iniciando a autenticacao do felipe
+13-12-2023 23:23:16 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Hash da senha gerado.
+13-12-2023 23:23:16 DEBUG [br.un.to.re.AuthResource] (executor-thread-2) yEaSZv1mx2Hf11tomtEAY3HUG2hrQS2ACE17U1PeCoA7PFIhHARbDredPke5UTKwvMVA+jod2rMVKSoDzm8p3Q==
+13-12-2023 23:23:27 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Iniciando a autenticacao do lipe
+13-12-2023 23:23:27 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Hash da senha gerado.
+13-12-2023 23:23:27 DEBUG [br.un.to.re.AuthResource] (executor-thread-2) yEaSZv1mx2Hf11tomtEAY3HUG2hrQS2ACE17U1PeCoA7PFIhHARbDredPke5UTKwvMVA+jod2rMVKSoDzm8p3Q==
+13-12-2023 23:23:27 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Login e senha corretos.
+13-12-2023 23:23:27 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Finalizando o processo de login.

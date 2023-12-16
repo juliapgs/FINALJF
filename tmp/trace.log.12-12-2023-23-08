@@ -1,0 +1,5 @@
+12-12-2023 23:08:02 INFO  [br.un.to.re.AuthResource] (executor-thread-6) Iniciando a autenticacao do gates
+12-12-2023 23:08:02 INFO  [br.un.to.re.AuthResource] (executor-thread-6) Hash da senha gerado.
+12-12-2023 23:08:02 DEBUG [br.un.to.re.AuthResource] (executor-thread-6) yEaSZv1mx2Hf11tomtEAY3HUG2hrQS2ACE17U1PeCoA7PFIhHARbDredPke5UTKwvMVA+jod2rMVKSoDzm8p3Q==
+12-12-2023 23:08:02 INFO  [br.un.to.re.AuthResource] (executor-thread-6) Login e senha corretos.
+12-12-2023 23:08:02 INFO  [br.un.to.re.AuthResource] (executor-thread-6) Finalizando o processo de login.

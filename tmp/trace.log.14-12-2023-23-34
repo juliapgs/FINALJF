@@ -1,0 +1,6 @@
+14-12-2023 23:34:24 INFO  [br.un.to.re.PedidoResource] (executor-thread-2) Iniciando busca de Pedidos
+14-12-2023 23:34:48 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Iniciando a autenticacao do janio
+14-12-2023 23:34:48 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Hash da senha gerado.
+14-12-2023 23:34:48 DEBUG [br.un.to.re.AuthResource] (executor-thread-2) yEaSZv1mx2Hf11tomtEAY3HUG2hrQS2ACE17U1PeCoA7PFIhHARbDredPke5UTKwvMVA+jod2rMVKSoDzm8p3Q==
+14-12-2023 23:34:48 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Login e senha corretos.
+14-12-2023 23:34:48 INFO  [br.un.to.re.AuthResource] (executor-thread-2) Finalizando o processo de login.
