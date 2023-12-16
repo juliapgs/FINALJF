@@ -3,6 +3,7 @@ package br.unitins.topicos1.service;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import br.unitins.topicos1.dto.itemP.ItemPedidoDTO;
 import br.unitins.topicos1.dto.pedido.PedidoDTO;
@@ -82,6 +83,12 @@ public class PedidoServiceImpl implements PedidoService {
     }
 
     @Override
+    public List<PedidoResponseDTO> findByUsuario(Long idUsuario) {
+        List<Pedido> list = pedidoRepository.findByUsuario(idUsuario);
+        return list.stream().map(compra -> PedidoResponseDTO.valueOf(compra)).collect(Collectors.toList());
+    }
+
+    @Override
     public PedidoResponseDTO findById(Long id) {
         return PedidoResponseDTO.valueOf(pedidoRepository.findById(id));
     }
@@ -93,7 +100,7 @@ public class PedidoServiceImpl implements PedidoService {
     // }
 
     @Override
-    public List<PedidoResponseDTO> findByAll(String login) {
+    public List<PedidoResponseDTO> findByAll() {
         return pedidoRepository.listAll().stream()
             .map(e -> PedidoResponseDTO.valueOf(e)).toList();
     }

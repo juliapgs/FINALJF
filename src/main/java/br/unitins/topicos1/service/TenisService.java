@@ -21,5 +21,7 @@ public interface TenisService {
     public List<TenisResponseDTO> findByMarca(String marca);
 
     public List<TenisResponseDTO> findByAll(); 
+
+    TenisResponseDTO updateImagem(Long id, String nomeImagem);
     
 }

@@ -48,7 +48,7 @@ public class PedidoResource {
     public Response findByAll() {
         LOG.info("Iniciando busca de Pedidos");
         String login = jwt.getSubject();
-        List<PedidoResponseDTO> pedidos = service.findByAll(login);
+        List<PedidoResponseDTO> pedidos = service.findByAll();
         return Response.ok(pedidos).build();
     }
 

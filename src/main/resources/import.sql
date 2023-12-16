@@ -23,16 +23,6 @@ insert into usuario_telefone (id_usuario, id_telefone) values(2, 6);
 insert into usuario_telefone (id_usuario, id_telefone) values(3, 3);
 insert into usuario_telefone (id_usuario, id_telefone) values(4, 4);
 
--- Enderecos
-insert into endereco (cep, logradouro, numero, complemento, id_cidade) values('77023-382', 'Quadra 904 Sul', 11, 'alameda 14', 'casa', 1);
-insert into endereco (cep, logradouro, numero, complemento, id_cidade) values('77010-000', 'Quadra 106 Norte', 10,'Av.JK', 'Condomínio Ferreira', 1);
-insert into endereco (cep, logradouro, numero, complemento, id_cidade) values('77006-500', 'Quadra 204 Sul', 13,  'alameda 02','casa', 2);
-
--- Relação UsuarioEndereco
-insert into usuario_endereco (id_usuario, id_endereco) values(3, 1);
-insert into usuario_endereco (id_usuario, id_endereco) values(4, 2); 
-insert into usuario_endereco (id_usuario, id_endereco) values(2, 3);
-
 -- Estados 
 insert into estado (nomeEstado, sigla) values('Tocantins', 'TO');
 insert into estado (nomeEstado, sigla) values('Bahia', 'BA');
@@ -47,15 +37,10 @@ insert into cidade (nomeCidade, id_estado) values('Barreiras', 2);
 insert into cidade (nomeCidade, id_estado) values('Rio de Janeiro', 4);
 insert into cidade (nomeCidade, id_estado) values('Santos', 3);
 
--- Relação pedidoEndereco
-insert into pedido_endereco (id_pedido, id_endereco) values(1,1);
-insert into pedido_endereco (id_pedido, id_endereco) values(1,2);
-insert into pedido_endereco (id_pedido, id_endereco) values(2,3);
-
--- Inserindo Pedidos
-INSERT INTO pedido (id_usuario, id_tenis, dataCompra, formaPagamento, statusPedido) VALUES (1, 2, '2023-02-22', 'PIX', 'AGUARDANDOPAGAMENTO');
-INSERT INTO pedido (id_usuario, id_tenis,  dataCompra, formaPagamento, statusPedido) VALUES (1, 2,  '2023-04-03', 'BOLETO', 'ENTREGUE');
-INSERT INTO pedido (id_usuario, id_tenis, dataCompra, formaPagamento, statusPedido) VALUES (2, 3,  '2023-10-06', 'PIX', 'PAGO');
+-- Enderecos
+insert into endereco (cep, logradouro, numero, complemento, id_cidade) values('77023-382', 'Quadra 904 Sul', 11, 'alameda 14', 1);
+insert into endereco (cep, logradouro, numero, complemento, id_cidade) values('77010-000', 'Quadra 106 Norte', 10,'Condomínio Ferreira', 2);
+insert into endereco (cep, logradouro, numero, complemento, id_cidade) values('77006-500', 'Quadra 204 Sul', 13, 'alameda 02', 3);
 
 -- Inserindo Tenis
 insert into tenis (marca, modelo, categoria, cor, tamanho, valor, estoque) values('Nike', 'Air Force 1', 'CASUAL', 'Branco', 41, 799.99, 10);
